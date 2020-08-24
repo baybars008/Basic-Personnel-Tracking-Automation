@@ -1,0 +1,13 @@
+C:\Users\baybars\Desktop\personel takip sistemi\personel takip sistemi\personel takip sistemi\bin\Debug\personel takip sistemi.exe.config
+C:\Users\baybars\Desktop\personel takip sistemi\personel takip sistemi\personel takip sistemi\bin\Debug\personel takip sistemi.exe
+C:\Users\baybars\Desktop\personel takip sistemi\personel takip sistemi\personel takip sistemi\bin\Debug\personel takip sistemi.pdb
+C:\Users\baybars\Desktop\personel takip sistemi\personel takip sistemi\personel takip sistemi\obj\Debug\personel takip sistemi.csprojAssemblyReference.cache
+C:\Users\baybars\Desktop\personel takip sistemi\personel takip sistemi\personel takip sistemi\obj\Debug\personel_takip_sistemi.Form1.resources
+C:\Users\baybars\Desktop\personel takip sistemi\personel takip sistemi\personel takip sistemi\obj\Debug\personel_takip_sistemi.Properties.Resources.resources
+C:\Users\baybars\Desktop\personel takip sistemi\personel takip sistemi\personel takip sistemi\obj\Debug\personel takip sistemi.csproj.GenerateResource.cache
+C:\Users\baybars\Desktop\personel takip sistemi\personel takip sistemi\personel takip sistemi\obj\Debug\personel takip sistemi.csproj.CoreCompileInputs.cache
+C:\Users\baybars\Desktop\personel takip sistemi\personel takip sistemi\personel takip sistemi\obj\Debug\personel takip sistemi.exe
+C:\Users\baybars\Desktop\personel takip sistemi\personel takip sistemi\personel takip sistemi\obj\Debug\personel takip sistemi.pdb
+C:\Users\baybars\Desktop\personel takip sistemi\personel takip sistemi\personel takip sistemi\bin\Debug\personel.accdb
+C:\Users\baybars\Desktop\personel takip sistemi\personel takip sistemi\personel takip sistemi\obj\Debug\personel_takip_sistemi.Form2.resources
+C:\Users\baybars\Desktop\personel takip sistemi\personel takip sistemi\personel takip sistemi\obj\Debug\personel_takip_sistemi.Form3.resources
